@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 'test/**/*.test.js'",
+    "test": "mocha test/**/*.test.js",
     "coverage": "nyc --reporter=lcov --reporter=text npm test && nyc report --reporter=text-lcov | coveralls"
   },
   "keywords": [],
