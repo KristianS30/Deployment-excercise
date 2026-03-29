@@ -8,7 +8,7 @@ npm init -y
 
 ## Install dependencies
 
-npm install --save-dev mocha chai
+npm install --save-dev mocha chai nyc coveralls
 
 ## Run tests
 
