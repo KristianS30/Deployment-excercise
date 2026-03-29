@@ -1,1 +1,15 @@
 # Deployment-excercise
+
+Test a library with Mocha & Chai. (Excercise for Deployment)
+
+## Initialization
+
+npm init -y
+
+## Install dependencies
+
+npm install --save-dev mocha chai
+
+## Run tests
+
+npm test
