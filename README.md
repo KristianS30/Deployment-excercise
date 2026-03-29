@@ -10,6 +10,7 @@ npm init -y
 
 npm install --save-dev mocha chai nyc coveralls
 
-## Run tests
+## Run tests and check coverage
 
 npm test
+npm run coverage
